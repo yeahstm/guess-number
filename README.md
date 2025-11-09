@@ -6,7 +6,7 @@
 
 **立即挑战 →** https://yeahstm.github.io/number-game/
 
-<img src="https://yeahstm.github.io/number-game/screenshot.png" width="600" alt="游戏截图"/>
+<img src="https://github.com/yeahstm/-/blob/main/%E6%B8%B8%E6%88%8F%E6%88%AA%E5%9B%BE.png"/>
 
 ---
 
